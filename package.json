@@ -4,7 +4,8 @@
   "description": "",
   "main": "lighthouserc.js",
   "scripts": {
-    "start": "lhci autorun"
+    "start": "lhci autorun",
+    "local": "lhci autorun  --config ./local.js"
   },
   "author": "",
   "license": "ISC",
