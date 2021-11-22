@@ -1,0 +1,14 @@
+{
+  "name": "tw-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lighthouserc.js",
+  "scripts": {
+    "start": "lhci autorun"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lhci/cli": "^0.8.2"
+  }
+}
